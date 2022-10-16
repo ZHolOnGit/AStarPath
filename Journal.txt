@@ -1,0 +1,15 @@
+Make a "bad version" with bad notation/method then improve using list comprehension and lambda ect.
+28/12/20
+Did some reacerch on the theroy behind the algorithim, the implementaion of it in python and psudocode and how to effectivly visualise the grid 
+
+29/12/20
+Started on the code, wrote all the prerequisites, colours, dispplay ect. Then coded out the the spot class barr the update neighbours part and then created the huristic (manhattan distance)
+
+30/12/20
+Started on the make_grid, finsished that up (had a few bugs with it, solved with changing a capital letter), then wrote out the draw grid function (not too many issues), then the update neighburs function (took a while to get my head around but i blasted it out), then the general draw function (the one that loops through the objects and draws them out) then the get click function (genius, divides the position by the gap to find the rows and cols) then started the main function (only the main loop and the left click, made it so you can click and draw squares) finnaly did the first round of tests, it suprisingly works
+
+13/01/21
+Finished off the last bit before the algorithim, coded in the rightclick and reset key, quick and easy, didnt even look at the example 
+
+19/01/21
+Implemented the algorithim by using the psudocode exaples shown on my biblography, i also wrote the reconstruct path algorithim (encountered a bug where there were 2 paths/mirrored, this was fixed by reversing the allocation of rows and cols in the visual) i then troubleshooted for a while (got some primary feedback from other users that were also using the software, used their feedback to fix the bugs) then (using user feedback) went through and improved my syntax and speed up my code. Then i added some more functonailty (Dikestras button, fast button, erase button) 

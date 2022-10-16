@@ -1,0 +1,15 @@
+READ ME 
+
+This is the python file that contains the final artifact for my EPQ, this should run on school computers but will likley not run on home computers as the prequsite software has not been installed (python, pygame modual)
+
+Controls:
+The first left click places the start point (the orange square) while the second left click places the end point (the blue square), any subsequent left clicks places black barriers
+
+Right click erases the squares and resets them to the nuetral white, if the start or end block is removed the next left click will restore them.
+
+Once the start and end have been placed the space bar starts the algorithim, new blocks cannot be placed while the algorithim is in process. Alternitivly the enter key can be pressed for a version that skips displaying the process on screen and skips immediatly to the completed path.
+
+The R key resets the whole grid 
+
+The P key resets the whole grid apart from the barrriers. 
+
